@@ -238,10 +238,6 @@ body {
   font-style: normal;
 }
 
-/* .header-contact .adress-item + .adress-item {
-  margin-left: 50px;
-} */
-
 .adress-item {
   display: flex;
 }
@@ -688,8 +684,7 @@ body {
   box-shadow var(--animation-duration) var(--animation-timing);
   
   display: flex;
-  align-items: center;
-  /* justify-content: center; */
+  align-items: center;  
   padding-left: 29px;
   border: none;
   width: 200px;
